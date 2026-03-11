@@ -1,0 +1,3 @@
+[submodule "BURE"]
+	path = BURE
+	url = https://github.com/HoangNguyen0309/BURE-Boston-University-Rent-Estimator-.git
