@@ -1,3 +1,9 @@
 [submodule "BURE"]
 	path = BURE
 	url = https://github.com/HoangNguyen0309/BURE-Boston-University-Rent-Estimator-.git
+[submodule "projects/BURE-original"]
+	path = projects/BURE-original
+	url = https://github.com/HoangNguyen0309/BURE-Boston-University-Rent-Estimator-.git
+[submodule "Bure"]
+	path = Bure
+	url = https://github.com/HoangNguyen0309/BURE-Boston-University-Rent-Estimator-.git
